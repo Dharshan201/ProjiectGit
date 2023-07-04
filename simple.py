@@ -1,4 +1,4 @@
 print("Hello")
-a =20
-b=2
+a=20
+b=22
 print(a+b)
